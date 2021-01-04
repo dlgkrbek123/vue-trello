@@ -1,0 +1,8 @@
+- vue-cli를 활용해서 스캐폴딩을 생성
+- webpack으로 개발환경 만들어줌
+
+npm install -g vue-cli
+
+vue init webpack-simple
+npm install
+npm run dev
